@@ -1,0 +1,12 @@
+Melhor solucao encontrada em: 0.000000 segundos
+FO Apos Busca Local: 97
+Melhor solucao encontrada em: 0.000000 segundos
+FO Apos Busca Local: 97
+Melhor solucao encontrada em: 0.000000 segundos
+FO Apos Busca Local: 97
+Melhor solucao encontrada em: 0.000000 segundos
+FO Apos Busca Local: 75
+Melhor solucao encontrada em: 0.108000 segundos
+FO Apos Busca Local: 74
+FO Apos Busca Local: 74
+Tempo de execucao, em segundos: 300.19400

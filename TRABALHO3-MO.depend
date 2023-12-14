@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1702513870 source:c:\users\micro\documents\c\codeblocks\trabalho2-mo\main.c
+	"trabalho2.h"
+
+1702515619 c:\users\micro\documents\c\codeblocks\trabalho2-mo\trabalho2.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702448523 source:c:\users\micro\documents\c\codeblocks\trabalho2-mo\trabalho2.c
+	"trabalho2.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702554973 source:c:\users\aluno\downloads\trabalho3final\trabalho3final\trabalho3-mo\main.c
+	"trabalho3.h"
+
+1702554973 c:\users\aluno\downloads\trabalho3final\trabalho3final\trabalho3-mo\trabalho3.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702554973 source:c:\users\aluno\downloads\trabalho3final\trabalho3final\trabalho3-mo\trabalho3.c
+	"trabalho3.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
